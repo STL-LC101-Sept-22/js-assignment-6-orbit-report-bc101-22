@@ -19,33 +19,6 @@ export class OrbitCountsComponent implements OnInit {
 		"Telescope"
 	]
 	
-	// typeCount: object[] = [
-	// 	{
-	// 		type: "Space Debris",
-	// 		count: 0
-	// 	},
-	// 	{
-	// 		type: "Communication",
-	// 		count: 0
-	// 	},
-	// 	{
-	// 		type: "Probe",
-	// 		count: 0
-	// 	},
-	// 	{
-	// 		type: "Positioning",
-	// 		count: 0
-	// 	},
-	// 	{
-	// 		type: "Space Station",
-	// 		count: 0
-	// 	},
-	// 	{
-	// 		type: "Telescope",
-	// 		count: 0
-	// 	}
-	// ]
-
 	constructor() { }
 
 	ngOnInit() {
